@@ -1,8 +1,7 @@
 #!/bin/sh
-
-UUID="c95ef1d4-f3ac-4586-96e9-234a37dda068"
+UUID="0d0ef11b-7026-48df-9529-f1badbc99c47"
 PROTOCOL="vmess"
-WS_PATH="/"
+WS_PATH="/9529"
 
 encode() {
   arg1=$1
